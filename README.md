@@ -14,3 +14,10 @@ TODO:
 	- [ ] YOLOv8
 	- [ ] YOLOv7
 - [ ] Create and implement in Android app
+
+## Datasets
+
+Current dataset I'm using is [Roboflow Human Dataset](https://universe.roboflow.com/dgist-9qtzz/human-3zoj7).
+
+It contains 5108 annotated images of humans.
+
