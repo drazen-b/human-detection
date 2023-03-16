@@ -12,8 +12,14 @@ TODO:
 - [ ] Create environment
 - [ ] Create models for all algorithms
 	- [ ] YOLOv8
-	- [ ] YOLOv7
+	- [ ] YOLOR
+	- [ ] HOG
+	- [ ] R-CNN
 - [ ] Create and implement in Android app
+	- [ ] Make image input
+	- [ ] Make video input
+	- [ ] Make camera input
+- [ ] Compare performances and results
 
 ## Datasets
 
