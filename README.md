@@ -12,5 +12,22 @@ TODO:
 - [ ] Create environment
 - [ ] Create models for all algorithms
 	- [ ] YOLOv8
-	- [ ] YOLOv7
+	- [ ] YOLOR
+	- [ ] HOG
+	- [ ] R-CNN
 - [ ] Create and implement in Android app
+	- [ ] Make image input
+	- [ ] Make video input
+	- [ ] Make camera input
+- [ ] Compare performances and results
+
+## Datasets
+
+Current dataset I'm using is [Roboflow Human Dataset](https://universe.roboflow.com/dgist-9qtzz/human-3zoj7).
+
+It contains 5108 annotated images of humans.
+
+## Sources
+
+ - [YOLOv8 GitHub repository](https://github.com/ultralytics/ultralytics)
+ - [Roboflow Human Dataset](https://universe.roboflow.com/dgist-9qtzz/human-3zoj7)
