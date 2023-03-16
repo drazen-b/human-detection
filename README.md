@@ -21,3 +21,7 @@ Current dataset I'm using is [Roboflow Human Dataset](https://universe.roboflow.
 
 It contains 5108 annotated images of humans.
 
+## Sources
+
+ - [YOLOv8 GitHub repository](https://github.com/ultralytics/ultralytics)
+ - [Roboflow Human Dataset](https://universe.roboflow.com/dgist-9qtzz/human-3zoj7)
