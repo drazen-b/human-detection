@@ -3,6 +3,4 @@ https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
 
 https://github.com/ultralytics/ultralytics
 https://medium.com/augmented-startups/top-6-object-detection-algorithms-b8e5c41b952f
-https://github.com/DaHoC/trainHOG/wiki/trainHOG-Tutorial
-https://www.kaggle.com/code/manikg/training-svm-classifier-with-hog-features
-https://github.com/SamPlvs/Object-detection-via-HOG-SVM
+
